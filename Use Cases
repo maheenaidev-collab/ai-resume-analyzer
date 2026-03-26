@@ -1,0 +1,16 @@
+📈 Scoring System
+Category	Max Points
+Technical Skills	40
+Soft Skills	20
+Education	20
+Experience	20
+Total	100
+🛠️ Tech Stack
+Python 3.x
+Regex for parsing
+No external dependencies!
+💡 Use Cases
+HR teams screening candidates
+Job seekers improving their resume
+Recruiters bulk-analyzing applications
+ATS (Applicant Tracking System) building
